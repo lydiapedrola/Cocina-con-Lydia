@@ -2,13 +2,6 @@
 
 Blog de recetas caseras, creado con HTML, CSS y una pequeña mejora de JavaScript. Incluye cuatro entradas con fotografías propias, navegación entre páginas, filtros por categoría y un diseño adaptable a móviles.
 
-## Abrir en Visual Studio Code
-
-1. Abre Visual Studio Code.
-2. Selecciona **Archivo → Abrir carpeta** y elige esta carpeta, `cocina-con-lydia`.
-3. Abre `index.html` para ver el código de la portada.
-4. Para ver el blog, abre ese mismo archivo desde el Explorador de archivos con tu navegador. No requiere instalaciones ni compilación. También puedes usar una extensión de servidor local si ya la tienes.
-
 ## Qué contiene cada archivo
 
 - `index.html`: portada, categorías y presentación del blog.
